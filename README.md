@@ -118,7 +118,7 @@ The dataset for token based indices will be `maluuba/newsqa/newsqa-data-tokenize
 These steps handle packaging the dataset and running the tests.
 
 * Clone this repo.
-* Download the tar.gz file for the questions and answers from [here][maluuba_newsqa_dl] to the maluuba/newsqa folder. No need to extract anything.
+* Download the newsqa-data-v1.csv file for the questions and answers from [here][maluuba_newsqa_dl] to the maluuba/newsqa folder.
 * Download the CNN stories from [here][cnn_stories] to the maluuba/newsqa folder (for legal and technical reasons, we can't distribute this to you).
 * In the root of this repo, run:
 ```bash
